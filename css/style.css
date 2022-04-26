@@ -24,3 +24,12 @@ header{
     height: 100px;
 
 }
+
+/* BANNER */
+#banner{
+    padding: 0 50px;
+    background-image: url("./imagenes/background.jpg");
+    height:  30vh;
+    background-size: cover;
+    background-position: center;
+}
